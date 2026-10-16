@@ -72,6 +72,7 @@ import com.example.dessertclicker.data.Datasource
 import com.example.dessertclicker.model.Dessert
 import com.example.dessertclicker.ui.theme.DessertClickerTheme
 
+// Tag for logging
 private const val TAG = "MainActivity"
 
 class MainActivity : ComponentActivity() {
